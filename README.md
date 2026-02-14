@@ -1,5 +1,3 @@
-
-
 # 📚 Fundamental Rights Chatbot
 
 An AI-powered chatbot that answers questions about **Part III of the Indian Constitution** (Fundamental Rights) using Retrieval-Augmented Generation (RAG).
@@ -66,8 +64,8 @@ This chatbot uses `part3.pdf` which contains Part III of the Indian Constitution
 
 ```bash
 # Clone the repository
-git clone <your-repo-url>
-cd <repo-name>
+git clone https://github.com/KeshavKhippal/NayayaBot.git
+cd NayayaBot
 
 # Install dependencies
 pip install -r requirements.txt
